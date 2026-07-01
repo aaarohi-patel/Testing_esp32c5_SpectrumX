@@ -1,2 +1,2 @@
 # Testing
-Mini codes to test flask, curl, and the esp32 for my SPectrumX REU project
+Mini codes to test Flask, curl, and the ESP32 for my SpectrumX REU project
