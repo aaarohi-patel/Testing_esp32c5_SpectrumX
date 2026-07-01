@@ -1,2 +1,2 @@
-# buzzer_button_esp32c5
-Buzzer triggered by a button using an ESP32-C5 by Espressif
+# Testing
+Mini codes to test flask, curl, and the esp32 for my SPectrumX REU project
